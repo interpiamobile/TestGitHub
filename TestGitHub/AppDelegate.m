@@ -3,7 +3,7 @@
 //  TestGitHub
 //
 //  Created by インターピア株式会社 on 2013/05/30.
-//  Copyright (c) 2013年 インターピア株式会社. All rights reserved.
+//  Copyright (c) 2013年 インターピア株式会社. All rights reserved...
 //
 
 #import "AppDelegate.h"
